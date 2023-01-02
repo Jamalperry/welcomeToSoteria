@@ -1,8 +1,22 @@
 .jumbotron {
-	background-color: rgba(0, 145, 255, 0.2);
-	margin-top: 7%;
+  background-color: rgba(0, 145, 255, 0.2);
+  margin-top: 7%;
+}
+
+.card {
+  margin-top: 5%;
+  background: transparent;
 }
 
 h1 {
-	text-decoration: overline;
+  font-kerning: normal;
+  text-decoration: overline;
+  font-family: 'DM Serif Display', 'Lora', 'Lato', 'Georgia', serif;
+}
+
+h2,
+p {
+  font-kerning: normal;
+  white-space: pre-wrap;
+  font-family: 'EB Garamond', 'Lora', 'Lato', 'Georgia', serif;
 }
