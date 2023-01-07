@@ -25,3 +25,23 @@ p {
   white-space: pre-wrap;
   font-family: 'EB Garamond', 'Lora', 'Lato', 'Georgia', serif;
 }
+
+h2 {
+  cursor: pointer;
+}
+
+.shown1, .shown2, .shown3 {
+  display: none;
+}
+
+.shown4, .shown5, .shown6 {
+  display: none;
+}
+
+.shown7, .shown8, .shown9 {
+  display: none;
+}
+
+.shown10, .shown11, .shown12 {
+  display: none;
+}
