@@ -16,32 +16,45 @@
 h1 {
   font-kerning: normal;
   text-decoration: overline;
-  font-family: 'DM Serif Display', 'Lora', 'Lato', 'Georgia', serif;
+  /*font-family: 'DM Serif Display', 'Lora', 'Lato', 'Georgia', serif;*/
 }
 
 h2,
 p {
   font-kerning: normal;
   white-space: pre-wrap;
-  font-family: 'EB Garamond', 'Lora', 'Lato', 'Georgia', serif;
+  /*font-family: 'EB Garamond', 'Lora', 'Lato', 'Georgia', serif;*/
 }
 
 h2 {
   cursor: pointer;
+  margin: 3%;
 }
 
-.shown1, .shown2, .shown3 {
+.card {
+  border-left: 4px solid skyblue;
+}
+
+.shown1,
+.shown2,
+.shown3 {
   display: none;
 }
 
-.shown4, .shown5, .shown6 {
+.shown4,
+.shown5,
+.shown6 {
   display: none;
 }
 
-.shown7, .shown8, .shown9 {
+.shown7,
+.shown8,
+.shown9 {
   display: none;
 }
 
-.shown10, .shown11, .shown12 {
+.shown10,
+.shown11,
+.shown12 {
   display: none;
 }
