@@ -8,6 +8,10 @@
   margin-top: 7%;
 }
 
+.carousel {
+  height: 60%;
+}
+
 .card {
   margin-top: 5%;
   background: transparent;
@@ -57,4 +61,15 @@ h2 {
 .shown11,
 .shown12 {
   display: none;
+}
+
+footer {
+  background-color: rgba(250, 255, 255, 0.9);
+  font-size: 0.6em;
+  white-space: pre-wrap;
+  border-top: 4px solid rgba(250, 255, 255, 0.7);
+}
+
+footer a {
+  color: whitesmoke;
 }
